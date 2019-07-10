@@ -7,5 +7,5 @@
 
 This repository is for an example application built in my Spring Framework 5 - Beginner to Guru
 =======
-# spring5-recipe-app
+# spring5-recipe-app 
 >>>>>>> origin/master
