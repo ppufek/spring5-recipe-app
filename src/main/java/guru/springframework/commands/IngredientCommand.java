@@ -11,7 +11,7 @@ import java.math.BigDecimal;
  */
 @Getter
 @Setter
-@NoArgsConstructor
+@NoArgsConstructor //we can set up constructor WO arguments
 public class IngredientCommand {
     private Long id;
     private Long recipeId;
